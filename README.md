@@ -5,6 +5,8 @@
 ![programming_challenges_v1 0](https://user-images.githubusercontent.com/31391753/37728800-17ffde42-2d33-11e8-9e8b-c355ddb8f7c5.png)
 
 OBS:
+
 ### [ 02 ] - Concluído
+### [ 03 ] - Concluído
 
 Bom estudo. Eh isto.
